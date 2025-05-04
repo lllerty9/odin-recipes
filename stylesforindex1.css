@@ -1,0 +1,15 @@
+.box1 {
+    color: #C2E4FF;
+    background-color: #26282C;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    flex: auto;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
